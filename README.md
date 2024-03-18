@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**HimankB/HimankB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Himank Bassi, a passionate developer from Australia currently pursuing a degree in Computer Science at the University of Melbourne. With three years of coding experience under my belt, I'm deeply involved in various domains ranging from algorithms & data structures to mathematics, AI/ML, and data science. I thrive on challenges and enjoy exploring the depths of technology.
 
-Here are some ideas to get you started:
+### Specializations:
+- Algorithms & Data Structures
+- Mathematics (Calculus, Linear Algebra, Probability)
+- AI/ML
+- Data Science
+- Database Creation and Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proficient in:
+- C/C++
+- Java
+- Python
+- MySQL
+- R
+- Matlab
+
+### Currently Working On:
+- [Project Name](link) - Description of the project.
+- [Project Name](link) - Description of the project.
+- (You can modify this section to reflect your current projects.)
+
+### Ask Me About:
+- Data Structures & Algorithms
+- Data Science
+- AI/ML
+- Mathematics (Calculus, Linear Algebra, Probability)
+
+### How to Reach Me:
+- 📧 Email: bassi.himank@gmail.com
+- 📷 Instagram: [himankbassi](https://www.instagram.com/himankbassi/)
