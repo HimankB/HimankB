@@ -3,7 +3,7 @@
 
 ## Hi there! 👋
 
-I'm Himank Bassi, a passionate developer from Australia currently pursuing a degree in Computer Science at the University of Melbourne.I'm deeply involved in various domains ranging from algorithms & data structures to mathematics, AI/ML, and data science. I thrive on challenges and enjoy exploring the depths of technology.
+I'm Himank Bassi, a passionate developer from Australia currently pursuing a degree in Computer Science at the University of Melbourne. I'm deeply involved in various domains ranging from algorithms & data structures to mathematics, AI/ML, and data science. I thrive on challenges and enjoy exploring the depths of technology.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANKB&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimankB&size_weight=0.5&count_weight=0.5_icons=true&theme=transparent)
@@ -46,7 +46,7 @@ I'm Himank Bassi, a passionate developer from Australia currently pursuing a deg
 
 
 ##Fun Fact🌟
-I also love Astrophysics and playing the Guitar!
+I also love Astronomy, Astrophysics and playing the Guitar!
 
 
 
