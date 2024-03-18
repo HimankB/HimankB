@@ -6,7 +6,7 @@
 I'm Himank Bassi, a passionate developer from Australia currently pursuing a degree in Computer Science at the University of Melbourne.I'm deeply involved in various domains ranging from algorithms & data structures to mathematics, AI/ML, and data science. I thrive on challenges and enjoy exploring the depths of technology.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANKB&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANKB&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimankB&langs_count=8)
 
 ### Specializations:
 - Algorithms & Data Structures!
