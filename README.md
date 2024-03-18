@@ -40,4 +40,8 @@ I'm Himank Bassi, a passionate developer from Australia currently pursuing a deg
 
 
 ##Fun Fact🌟
-I also love Astrophysics and Playing Guitar![Alt Text]
+I also love Astrophysics and playing the Guitar!
+
+
+
+
