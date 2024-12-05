@@ -30,9 +30,8 @@ I'm Himank Bassi, a passionate developer from Australia currently pursuing a deg
 - Mathematics (Calculus, Linear Algebra, Probability)
 
 ### How to Reach Me:
-- 📧 Email: bassi.himank@gmail.com
+- 📧 Email: himank.bassi.work@gmail.com
 - 🔗 Linkedin: [Himank Bassi](https://www.linkedin.com/in/himank-bassi-294604271/)
-- 📷 Instagram: [himankbassi](https://www.instagram.com/himankbassi/)
 
 
 ##Fun Fact🌟
