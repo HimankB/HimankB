@@ -23,16 +23,6 @@ I'm Himank Bassi, a passionate developer from Australia currently pursuing a deg
 ![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png)
 ![Matlab](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/120px-Matlab_Logo.png)
 
-
-
-
-### Currently Working On:
-- [Project Name](link) - Description of the project.
-- [Project Name](link) - Description of the project.
-- (You can modify this section to reflect your current projects.)
-
-
-
 ### Ask Me About:
 - Data Structures & Algorithms
 - Data Science
