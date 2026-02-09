@@ -1,9 +1,12 @@
 <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="900" height="300" />
 
 
-## Hi there! 👋
+##Hi there! 👋
 
-I'm Himank Bassi, a passionate developer from Australia currently pursuing a degree in Computer Science at the University of Melbourne. I'm deeply involved in various domains ranging from algorithms & data structures to mathematics, AI/ML, and data science. I thrive on challenges and enjoy exploring the depths of technology.
+I’m Himank Bassi, an AI / Data / Automation Engineer currently working at OffsureIT Solutions (India).
+I graduated with a Bachelor of Computer Science from the University of Melbourne and enjoy building systems that sit at the intersection of software engineering, data, and machine learning.
+
+My interests span from algorithms and backend systems to applied AI, analytics platforms, and automation tools.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANKB&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimankB&size_weight=0.5&count_weight=0.5_icons=true&theme=transparent)
