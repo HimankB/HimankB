@@ -8,9 +8,6 @@ I graduated with a Bachelor of Computer Science from the University of Melbourne
 
 My interests span from algorithms and backend systems to applied AI, analytics platforms, and automation tools.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANKB&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimankB&size_weight=0.5&count_weight=0.5_icons=true&theme=transparent)
-
 ### Specializations:
 - Algorithms & Data Structures!
 - Mathematics (Calculus, Linear Algebra, Probability)
