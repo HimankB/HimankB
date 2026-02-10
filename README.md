@@ -17,7 +17,7 @@ My interests span from algorithms and backend systems to applied AI, analytics p
 
 ### Proficient in:
 
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" width="60"/>
   <img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60"/>
