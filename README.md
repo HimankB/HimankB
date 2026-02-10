@@ -17,13 +17,13 @@ My interests span from algorithms and backend systems to applied AI, analytics p
 
 ### Proficient in:
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" width="60" style="margin: 0 8px;"/>
-  <img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" width="60" style="margin: 0 8px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" style="margin: 0 8px;"/>
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" style="margin: 0 8px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png" width="60" style="margin: 0 8px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/120px-Matlab_Logo.png" width="60" style="margin: 0 8px;"/>
+<p align=left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" width="60" style="margin: 6 12px;"/>
+  <img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" width="60" style="margin: 6 12px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" style="margin: 6 12px;"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" style="margin: 6 12px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png" width="60" style="margin: 6 12px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/120px-Matlab_Logo.png" width="60" style="margin: 6 12px;"/>
 </p>
 
 ### Ask Me About:
