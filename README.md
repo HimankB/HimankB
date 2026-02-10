@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="900" height="300" />
 
 
-##Hi there! 👋
+## Hi there! 👋
 
 I’m Himank Bassi, an AI / Data / Automation Engineer currently working at OffsureIT Solutions (India).
 I graduated with a Bachelor of Computer Science from the University of Melbourne and enjoy building systems that sit at the intersection of software engineering, data, and machine learning.
