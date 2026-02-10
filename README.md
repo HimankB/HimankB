@@ -37,8 +37,8 @@ My interests span from algorithms and backend systems to applied AI, analytics p
 - 🔗 Linkedin: [Himank Bassi](https://www.linkedin.com/in/himank-bassi-294604271/)
 
 
-##Fun Fact🌟
-I also love Astronomy, Astrophysics and playing the Guitar!
+## Fun Fact🌟
+I also love Astronomy and playing the Guitar!
 
 
 
