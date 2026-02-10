@@ -16,12 +16,13 @@ My interests span from algorithms and backend systems to applied AI, analytics p
 - Database Creation and Management
 
 ### Proficient in:
-![C/C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png) 
-![Java](https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png)
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png) 
-![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png)
-![Matlab](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/120px-Matlab_Logo.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" width="60"/>
+<img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/120px-Matlab_Logo.png" width="60"/>
 
 ### Ask Me About:
 - Data Structures & Algorithms
